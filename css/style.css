@@ -165,6 +165,7 @@ nav {
 
 
 footer {
+    width:100%;
     display: flex;
     flex-wrap: wrap;
     margin-top: auto;
